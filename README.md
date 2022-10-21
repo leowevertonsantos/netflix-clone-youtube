@@ -1,46 +1,19 @@
-# Getting Started with Create React App and Redux
+# Projeto clone do netflix 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Esse projeto foi criado utilizando ReactJS com Firebase na autenticação e Redux para gerenciamento de estado
 
-## Available Scripts
+### Link no firebase https://netflix-clone-b6f5e.web.app
 
-In the project directory, you can run:
+<br />
+<strong>Resultado final</strong>
 
-### `yarn start`
+![Captura de Tela 2022-10-20 às 23 28 24 (2)](https://user-images.githubusercontent.com/24196945/197098177-9df06017-c07b-48ad-8057-a1b42e7b85a0.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Captura de Tela 2022-10-20 às 23 28 45 (2)](https://user-images.githubusercontent.com/24196945/197098196-0f24e6bf-232e-4645-bc42-ab9fea3b5d84.png)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Captura de Tela 2022-10-20 às 23 29 05 (2)](https://user-images.githubusercontent.com/24196945/197098217-bd4b3e48-10fd-4852-a761-be9cac4daa7c.png)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Captura de Tela 2022-10-20 às 23 29 28 (2)](https://user-images.githubusercontent.com/24196945/197098232-a3e534eb-9aea-459d-99dc-b016b4085ab0.png)
